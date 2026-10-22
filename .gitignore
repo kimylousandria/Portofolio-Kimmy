@@ -39,3 +39,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# dependencies
+/node_modules
+
+# next.js build output
+/.next/
+/out/
+
+# environment variables (Security)
+.env*.local
+.env
+
+# raw archives & OS files (Technical Debt prevention)
+imageproduct.zip
+CV-KIMMY-111026.pdf
+.DS_Store
+*.pem
+npm-debug.log*

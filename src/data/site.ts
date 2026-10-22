@@ -51,7 +51,7 @@ export const site: SiteConfig = {
       alt: "Kimmy Lousandria Lukito casual portrait",
     },
     heroBg: {
-      src: "/images/fl.jpeg",
+      src: "/images/FL.jpeg",
       alt: "Atmospheric background from Freshmen Leader orientation",
     },
   },

@@ -13,5 +13,5 @@
 ---
 
 <p align="center">
-  Built with ☕ and Next.js.
+  Built with ☕ , Next.js, and Love.
 </p>

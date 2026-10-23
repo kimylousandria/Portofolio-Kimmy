@@ -20,7 +20,7 @@ export const lifeProject: LifeProjectData = {
   mosaic: [
     {
       caption: "Freshmen Leader",
-      src: "/images/fl.jpeg",
+      src: "/images/freshmen.jpeg",
       alt: "Freshmen Leader orientation group photo at BINUS University",
       span: "wide",
     },
